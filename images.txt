@@ -1,1 +1,2 @@
 php:8-apache
+registry.cn-beijing.aliyuncs.com/aio169/lion:v4.10.19-ce
